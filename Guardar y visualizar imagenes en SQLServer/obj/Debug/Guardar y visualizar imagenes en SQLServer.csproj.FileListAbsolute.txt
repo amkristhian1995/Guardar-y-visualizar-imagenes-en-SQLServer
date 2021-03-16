@@ -1,0 +1,5 @@
+K:\Github\Guardar y visualizar imagenes en SQLServer\Guardar y visualizar imagenes en SQLServer\bin\Guardar y visualizar imagenes en SQLServer.dll
+K:\Github\Guardar y visualizar imagenes en SQLServer\Guardar y visualizar imagenes en SQLServer\bin\Guardar y visualizar imagenes en SQLServer.pdb
+K:\Github\Guardar y visualizar imagenes en SQLServer\Guardar y visualizar imagenes en SQLServer\obj\Debug\Guardar y visualizar imagenes en SQLServer.csprojResolveAssemblyReference.cache
+K:\Github\Guardar y visualizar imagenes en SQLServer\Guardar y visualizar imagenes en SQLServer\obj\Debug\Guardar y visualizar imagenes en SQLServer.dll
+K:\Github\Guardar y visualizar imagenes en SQLServer\Guardar y visualizar imagenes en SQLServer\obj\Debug\Guardar y visualizar imagenes en SQLServer.pdb
